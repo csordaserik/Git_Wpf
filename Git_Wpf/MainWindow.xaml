@@ -9,7 +9,7 @@
     <Grid>
         <Grid>
             <Label Content="Próba"></Label>
-            
+            <Label Content="újabb"></Label>
         </Grid>
     </Grid>
 </Window>
