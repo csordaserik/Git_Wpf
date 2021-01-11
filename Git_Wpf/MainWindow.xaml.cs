@@ -23,6 +23,8 @@ namespace Git_Wpf
         public MainWindow()
         {
             InitializeComponent();
+
+            //komment
         }
     }
 }
